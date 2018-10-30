@@ -1,2 +1,8 @@
 node_modules
 .vscode
+.idea/cypress-test.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+cypress-test.iml
